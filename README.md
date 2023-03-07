@@ -1,11 +1,11 @@
-About flytekitplugins-dask
-==========================
+About flytekitplugins-dask-feedstock
+====================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/flytekitplugins-dask-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/flyteorg/flytekit/tree/master/plugins/flytekit-dask
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/flytekitplugins-dask-feedstock/blob/main/LICENSE.txt)
 
 Summary: Dask plugin for flytekit
 
