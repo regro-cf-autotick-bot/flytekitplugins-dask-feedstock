@@ -1,5 +1,5 @@
 {% set name = "flytekitplugins-dask" %}
-{% set version = "1.4.2" %}
+{% set version = "1.5.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/flytekitplugins-dask-{{ version }}.tar.gz
-  sha256: bbdb12fde872750fba9f74411a08bd4dbe23635d8168c5bd1ef50e968bc68f83
+  sha256: c0b779d3c3b82350f982a5ac4cd3b2f2b4219e183bc487221293af6188b390d4
 
 build:
   noarch: python
